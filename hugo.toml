@@ -1,4 +1,5 @@
 baseURL = 'https://iridescent-scone-12a762.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme = 'Isaac Hugo Theme1'
+
