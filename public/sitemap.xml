@@ -2,20 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/mcgown-post/</loc>
-    <lastmod>2025-10-16T12:03:29-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-16T12:03:29-04:00</lastmod>
+    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-16T12:03:29-04:00</lastmod>
+    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vishing-post/</loc>
+    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/pharming-post/</loc>
+    <lastmod>2025-10-23T11:55:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/clone-post/</loc>
+    <lastmod>2025-10-23T11:55:30-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/smish-post/</loc>
+    <lastmod>2025-10-23T11:55:21-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/spear-post/</loc>
+    <lastmod>2025-10-23T11:55:13-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/email-post/</loc>
+    <lastmod>2025-10-23T11:55:06-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/scamreport-post/</loc>
+    <lastmod>2025-10-23T11:54:57-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hotsheetofscams-post/</loc>
+    <lastmod>2025-10-23T11:54:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/contract-post/</loc>
+    <lastmod>2025-10-23T11:54:09-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/about-post/</loc>
+    <lastmod>2025-10-23T11:52:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/phishing-post/</loc>
+    <lastmod>2025-10-23T11:52:33-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/clone-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/email-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hotsheet-of-scams-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pharming-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/phishing-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/scam-report-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/smish-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/spear-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/vishing-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mcgown-page/</loc>
     <lastmod>2025-10-16T11:43:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/brewer-post/</loc>
-    <lastmod>2025-10-16T11:24:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/brewer-page/</loc>
     <lastmod>2025-10-16T11:23:35-04:00</lastmod>

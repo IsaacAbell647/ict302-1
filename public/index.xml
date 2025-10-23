@@ -1,32 +1,172 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Group 1 Website for Group 2</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.151.1</generator>
+    <description>Recent content on Group 1 Website for Group 2</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 12:03:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 11:55:52 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mcgown Post</title>
-      <link>http://localhost:1313/posts/mcgown-post/</link>
-      <pubDate>Thu, 16 Oct 2025 12:03:29 -0400</pubDate>
-      <guid>http://localhost:1313/posts/mcgown-post/</guid>
-      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
+      <title>Vishing Post</title>
+      <link>http://localhost:1313/posts/vishing-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:55:52 -0400</pubDate>
+      <guid>http://localhost:1313/posts/vishing-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pharming Post</title>
+      <link>http://localhost:1313/posts/pharming-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:55:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/pharming-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clone Post</title>
+      <link>http://localhost:1313/posts/clone-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:55:30 -0400</pubDate>
+      <guid>http://localhost:1313/posts/clone-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smish Post</title>
+      <link>http://localhost:1313/posts/smish-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:55:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/smish-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spear Post</title>
+      <link>http://localhost:1313/posts/spear-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:55:13 -0400</pubDate>
+      <guid>http://localhost:1313/posts/spear-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email Post</title>
+      <link>http://localhost:1313/posts/email-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:55:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/email-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ScamReport Post</title>
+      <link>http://localhost:1313/posts/scamreport-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:54:57 -0400</pubDate>
+      <guid>http://localhost:1313/posts/scamreport-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hotsheetofscams Post</title>
+      <link>http://localhost:1313/posts/hotsheetofscams-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:54:39 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hotsheetofscams-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contract Post</title>
+      <link>http://localhost:1313/posts/contract-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:54:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/contract-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Post</title>
+      <link>http://localhost:1313/posts/about-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:52:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/about-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phishing Post</title>
+      <link>http://localhost:1313/posts/phishing-post/</link>
+      <pubDate>Thu, 23 Oct 2025 11:52:33 -0400</pubDate>
+      <guid>http://localhost:1313/posts/phishing-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/about-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/about-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/clone-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/clone-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/contact-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/contact-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/email-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/email-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/hotsheet-of-scams-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/hotsheet-of-scams-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/pharming-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/pharming-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/phishing-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/phishing-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/scam-report-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/scam-report-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/smish-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/smish-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/spear-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/spear-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/vishing-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/vishing-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
       <title>McGown Page</title>
       <link>http://localhost:1313/mcgown-page/</link>
       <pubDate>Thu, 16 Oct 2025 11:43:19 -0400</pubDate>
       <guid>http://localhost:1313/mcgown-page/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Brewer Post</title>
-      <link>http://localhost:1313/posts/brewer-post/</link>
-      <pubDate>Thu, 16 Oct 2025 11:24:00 -0400</pubDate>
-      <guid>http://localhost:1313/posts/brewer-post/</guid>
       <description></description>
     </item>
     <item>
