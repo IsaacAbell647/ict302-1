@@ -1,6 +1,9 @@
 baseURL = 'https://iridescent-scone-12a762.netlify.app/'
 languageCode = 'en-us'
-title = 'Group 1 Website for Group 2'
+title = 'Online Scam Awareness'
 theme = 'ananke'
+[taxonomies] 
+category = "categories" 
+tags = "tags"
 
 
