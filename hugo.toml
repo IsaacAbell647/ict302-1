@@ -6,6 +6,9 @@ theme = 'ananke'
 tag = "tags"
 author = "authors"
 category = "categories" 
-
+[[menus.main]]
+name = "Smish"
+pageRef = "/Smish-page"
+weight = 10
 
 
