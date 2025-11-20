@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/about/</loc>
+    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/information/</loc>
+    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-23T11:55:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-23T11:55:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/vishing-post/</loc>
@@ -74,20 +83,14 @@
     <loc>http://localhost:1313/vishing-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
-    <lastmod>2025-10-16T11:43:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/information/</loc>
-    <lastmod>2025-10-16T11:43:19-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/mcgown-page/</loc>
-    <lastmod>2025-10-16T11:43:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-16T11:43:19-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/brewer-page/</loc>
     <lastmod>2025-10-16T11:23:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/abell-post/</loc>
+    <lastmod>2025-10-16T11:09:01-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/abell-page/</loc>
     <lastmod>2025-10-14T11:37:36-04:00</lastmod>
