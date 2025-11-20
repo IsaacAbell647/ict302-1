@@ -83,6 +83,9 @@
     <loc>http://localhost:1313/posts/abell-post/</loc>
     <lastmod>2025-10-16T11:09:01-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/about/</loc>
+    <lastmod>2025-10-16T11:09:01-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/information/</loc>
     <lastmod>2025-10-16T11:09:01-04:00</lastmod>
   </url><url>
@@ -91,6 +94,8 @@
   </url><url>
     <loc>http://localhost:1313/abell-page/</loc>
     <lastmod>2025-10-14T11:37:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

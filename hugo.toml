@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = 'Online Scam Awareness'
 theme = 'ananke'
 [taxonomies] 
+tag = "tags"
+author = "authors"
 category = "categories" 
-tags = "tags"
+
 
 
