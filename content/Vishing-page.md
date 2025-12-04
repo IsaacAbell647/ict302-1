@@ -1,6 +1,6 @@
 +++
 date = '2025-10-23T11:42:26-04:00'
-title = 'Phishing Page'
+title = 'Vishing Page'
 author = ["Isaac"]
 
 +++
