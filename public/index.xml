@@ -86,45 +86,45 @@
       <description></description>
     </item>
     <item>
-      <title>Phishing Page</title>
-      <link>http://localhost:1313/about-page/</link>
-      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
-      <guid>http://localhost:1313/about-page/</guid>
-      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Phishing Page</title>
+      <title>Clone Page</title>
       <link>http://localhost:1313/clone-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/clone-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phishing Page</title>
+      <title>Contact Page</title>
       <link>http://localhost:1313/contact-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/contact-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phishing Page</title>
+      <title>Email Page</title>
       <link>http://localhost:1313/email-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/email-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phishing Page</title>
+      <title>Hotsheet of Scams Page</title>
       <link>http://localhost:1313/hotsheet-of-scams-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/hotsheet-of-scams-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phishing Page</title>
+      <title>Pharming Page</title>
       <link>http://localhost:1313/pharming-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/pharming-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phishing Page</title>
+      <link>http://localhost:1313/about-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/about-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
@@ -135,17 +135,10 @@
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Phishing Page</title>
+      <title>Scam Report Page</title>
       <link>http://localhost:1313/scam-report-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/scam-report-page/</guid>
-      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Phishing Page</title>
-      <link>http://localhost:1313/vishing-page/</link>
-      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
-      <guid>http://localhost:1313/vishing-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>
@@ -160,6 +153,13 @@
       <link>http://localhost:1313/spear-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/spear-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vishing Page</title>
+      <link>http://localhost:1313/vishing-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/vishing-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>

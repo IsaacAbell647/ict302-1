@@ -50,9 +50,6 @@
     <loc>http://localhost:1313/posts/phishing-post/</loc>
     <lastmod>2025-10-23T11:52:33-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-page/</loc>
-    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/clone-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
@@ -68,19 +65,22 @@
     <loc>http://localhost:1313/pharming-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/phishing-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/scam-report-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/vishing-page/</loc>
-    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/smish-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/spear-page/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/vishing-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mcgown-page/</loc>
