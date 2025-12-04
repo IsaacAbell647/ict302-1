@@ -143,13 +143,6 @@
     </item>
     <item>
       <title>Phishing Page</title>
-      <link>http://localhost:1313/spear-page/</link>
-      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
-      <guid>http://localhost:1313/spear-page/</guid>
-      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Phishing Page</title>
       <link>http://localhost:1313/vishing-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/vishing-page/</guid>
@@ -160,6 +153,13 @@
       <link>http://localhost:1313/smish-page/</link>
       <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
       <guid>http://localhost:1313/smish-page/</guid>
+      <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spear Page</title>
+      <link>http://localhost:1313/spear-page/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/spear-page/</guid>
       <description>&lt;p&gt;this will be about phishing&lt;/p&gt;</description>
     </item>
     <item>

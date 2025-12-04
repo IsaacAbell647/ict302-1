@@ -7,37 +7,34 @@ category = "categories"
 tags = "tags"
 [[menus.main]]
 name = 'phishing'
-pageRef = '/ Phishing-post'
+pageRef = '/Phishing-page'
 weight = 10
 [[menus.main]]
 name = 'pharming'
-pageRef = '/ Pharming-post'
+pageRef = '/Pharming-page'
 weight = 20
 [[menus.main]]
 name = 'smish'
-pageRef = '/ Smish-post'
+pageRef = '/Smish-page'
 weight = 30
 [[menus.main]]
 name = 'spear'
-pageRef = '/ Spear-post'
+pageRef = '/Spear-page'
 weight = 40
 [[menus.main]]
 name = 'vishing'
-pageRef = '/ Vishing-post'
+pageRef = '/Vishing-page'
 weight = 50
 [[menus.main]]
 name = 'scam report'
-pageRef = '/ ScamReport-post'
+pageRef = '/ScamReport-page'
 weight = 60
 [[menus.main]]
 name = 'hotsheet of scams'
-pageRef = '/ Hotsheetofscams-post'
+pageRef = '/Hotsheetofscams-page'
 weight = 70 
 tag = "tags"
 author = "authors"
 category = "categories" 
-[[menus.main]]
-name = "Smish"
-pageRef = "/Smish-page"
-weight = 10
+
 
