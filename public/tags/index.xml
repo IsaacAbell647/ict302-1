@@ -36,5 +36,19 @@
       <guid>http://localhost:1313/tags/scam/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Smish</title>
+      <link>http://localhost:1313/tags/smish/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/tags/smish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spear</title>
+      <link>http://localhost:1313/tags/spear/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/tags/spear/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
