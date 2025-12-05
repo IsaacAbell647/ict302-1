@@ -9,6 +9,15 @@
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
         {{ .Content }}
+        <h4>
+        Tags
+      </h4>
+
+      {{- partials.Include "tags.html" . -}}
+      <h4>
+        Authors
+      </h4>
+      {{- partials.Include "authors.html" . -}}
       </div>
     </article>
   </div>
