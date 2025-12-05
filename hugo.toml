@@ -5,6 +5,7 @@ theme = 'ananke'
 [taxonomies]
 category = "categories"
 tags = "tags"
+author = "authors"
 [[menus.main]]
 name = 'phishing'
 pageRef = '/Phishing-page'
