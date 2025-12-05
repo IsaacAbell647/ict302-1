@@ -71,6 +71,12 @@
     <loc>http://localhost:1313/phishing-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/report/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scam/</loc>
+    <lastmod>2025-10-23T11:42:26-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/scam-report-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
   </url><url>

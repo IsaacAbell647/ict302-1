@@ -22,5 +22,19 @@
       <guid>http://localhost:1313/tags/information/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Report</title>
+      <link>http://localhost:1313/tags/report/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/tags/report/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scam</title>
+      <link>http://localhost:1313/tags/scam/</link>
+      <pubDate>Thu, 23 Oct 2025 11:42:26 -0400</pubDate>
+      <guid>http://localhost:1313/tags/scam/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

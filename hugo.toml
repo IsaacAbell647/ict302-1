@@ -27,7 +27,7 @@ pageRef = '/Vishing-page'
 weight = 50
 [[menus.main]]
 name = 'scam report'
-pageRef = '/ScamReport-page'
+pageRef = '/Scam Report-page'
 weight = 60
 [[menus.main]]
 name = 'hotsheet of scams'
