@@ -32,7 +32,7 @@ pageRef = '/Scam Report-page'
 weight = 60
 [[menus.main]]
 name = 'hotsheet of scams'
-pageRef = '/Hotsheetofscams-page'
+pageRef = '/Hotsheet of scams-page'
 weight = 70 
 tag = "tags"
 author = "authors"
