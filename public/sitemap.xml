@@ -2,32 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/cloning/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clone-phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cyber-security/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dns-attacks/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/email/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/email-phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/email-security/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/scam-report/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/impersonation/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pharming/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/pharming/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/phone-scams/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/vishing-post/</loc>
-    <lastmod>2025-10-23T11:55:52-04:00</lastmod>
+    <loc>http://localhost:1313/tags/reporting/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/pharming-post/</loc>
-    <lastmod>2025-10-23T11:55:42-04:00</lastmod>
+    <loc>http://localhost:1313/tags/resources/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/clone-post/</loc>
-    <lastmod>2025-10-23T11:55:30-04:00</lastmod>
+    <loc>http://localhost:1313/tags/scam-prevention/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/smish-post/</loc>
-    <lastmod>2025-10-23T11:55:21-04:00</lastmod>
+    <loc>http://localhost:1313/tags/scams/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/spear-post/</loc>
-    <lastmod>2025-10-23T11:55:13-04:00</lastmod>
+    <loc>http://localhost:1313/tags/smishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/email-post/</loc>
-    <lastmod>2025-10-23T11:55:06-04:00</lastmod>
+    <loc>http://localhost:1313/posts/smishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/scamreport-post/</loc>
-    <lastmod>2025-10-23T11:54:57-04:00</lastmod>
+    <loc>http://localhost:1313/tags/sms-scams/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-engineering/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/spear-phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spear-phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/targeted-attacks/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/text-message-phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/voice-phishing/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hotsheetofscams-post/</loc>
     <lastmod>2025-10-23T11:54:39-04:00</lastmod>
@@ -37,9 +106,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/about-post/</loc>
     <lastmod>2025-10-23T11:52:44-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/phishing-post/</loc>
-    <lastmod>2025-10-23T11:52:33-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about-page/</loc>
     <lastmod>2025-10-23T11:42:26-04:00</lastmod>
@@ -84,9 +150,6 @@
     <lastmod>2025-10-16T11:09:01-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/information/</loc>
-    <lastmod>2025-10-16T11:09:01-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-16T11:09:01-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/abell-page/</loc>

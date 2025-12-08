@@ -7,3 +7,48 @@ category = "categories"
 tags = "tags"
 
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Vishing"
+    url = "/posts/vishing/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Phishing"
+    url = "/posts/phishing/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Pharming"
+    url = "/posts/pharming/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Cloning"
+    url = "/posts/cloning/"
+    weight = 50
+
+  [[menu.main]]
+    name = "Smishing"
+    url = "/posts/smishing/"
+    weight = 60
+
+  [[menu.main]]
+    name = "Spearing"
+    url = "/posts/spear-phishing/"
+    weight = 70
+
+[[menu.main]]
+    name = "Email"
+    url = "/posts/email/"
+    weight = 80
+
+[[menu.main]]
+    name = "Report"
+    url = "/posts/scam-report/"
+    weight = 90
