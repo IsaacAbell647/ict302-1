@@ -58,3 +58,61 @@ tags = "tags"
     name = "Report"
     url = "/posts/scam-report/"
     weight = 100
+
+[[menu.footer]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.footer]]
+  name = "Vishing"
+  url = "/posts/vishing/"
+  weight = 20
+
+[[menu.footer]]
+  name = "Phishing"
+  url = "/posts/phishing/"
+  weight = 30
+
+[[menu.footer]]
+  name = "Pharming"
+  url = "/posts/pharming/"
+  weight = 40
+
+[[menu.footer]]
+  name = "Cloning"
+  url = "/posts/cloning/"
+  weight = 50
+
+[[menu.footer]]
+  name = "Smishing"
+  url = "/posts/smishing"
+  weight = 60
+
+[[menu.footer]]
+  name = "Spearing"
+  url = "/posts/spearing"
+  weight = 70
+
+[[menu.footer]]
+  name = "Email Scams"
+  url = "/posts/email"
+  weight = 80
+
+[[menu.footer]]
+  name = "Financial Scams"
+  url = "/posts/financial"
+  weight = 90
+
+[[menu.footer]]
+  name = "Report a Scam"
+  url = "/posts/report"
+  weight = 100
+
+[[menu.main]]
+  name = "Browse Topics"
+  url = "/browse/"
+  weight = 110
+
+
+

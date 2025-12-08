@@ -8,9 +8,9 @@ tags = ["pharming", "dns-attacks", "cyber-security"]
 
 ## What is Pharming?
 
-Pharming redirects you from legitimate websites to fake ones automatically—even when you type the correct URL. Unlike phishing (which tricks you into clicking), pharming manipulates DNS (Domain Name System) to send you to fake sites without your knowledge.
+Pharming redirects you from legitimate websites to fake ones automatically, even when you type the correct URL. Unlike phishing (which tricks you into clicking), pharming manipulates DNS (Domain Name System) to send you to fake sites without your knowledge.
 
-**The Danger:** You can do everything right—type the URL correctly, use bookmarks, check for HTTPS—and still end up on a fake site.
+**The Danger:** You can do everything right, type the URL correctly, use bookmarks, check for HTTPS, and still end up on a fake site.
 
 ## How It Works
 
