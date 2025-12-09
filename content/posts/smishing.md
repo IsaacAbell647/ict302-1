@@ -5,6 +5,7 @@ draft = false
 description = "Learn to identify and avoid SMS phishing attacks sent through text messages"
 tags = ["smishing", "sms-scams", "text-message-phishing"]
 featured_image = "/images/smishing.png"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## What is Smishing?

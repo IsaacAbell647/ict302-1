@@ -5,6 +5,7 @@ draft = false
 description = "Learn about clone phishing attacks that duplicate legitimate emails and social media profiles"
 tags = ["clone-phishing", "impersonation", "social-engineering"]
 featured_image = "/images/cloning.png"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## What is Clone Phishing?

@@ -5,6 +5,7 @@ draft = false
 description = "Comprehensive guide to identifying and avoiding email phishing attacks"
 tags = ["email-phishing", "phishing", "email-security"]
 featured_image = "images/email.png"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## What is Email Phishing?

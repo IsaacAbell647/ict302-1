@@ -5,6 +5,7 @@ draft = false
 description = "Learn how to identify and protect yourself from phone-based phishing attacks"
 tags = ["vishing", "phone-scams", "voice-phishing"]
 featured_image = "/images/vishing.jpg"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## What is Vishing?

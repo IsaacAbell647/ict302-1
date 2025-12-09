@@ -2,9 +2,41 @@ baseURL = 'https://iridescent-scone-12a762.netlify.app/'
 languageCode = 'en-us'
 title = 'Online Scam Awareness'
 theme = 'ananke'
-[taxonomies] 
-category = "categories" 
+[taxonomies]
+category = "categories"
 tags = "tags"
+author = "authors"
+[[menus.main]]
+name = 'phishing'
+pageRef = '/Phishing-page'
+weight = 10
+[[menus.main]]
+name = 'pharming'
+pageRef = '/Pharming-page'
+weight = 20
+[[menus.main]]
+name = 'smish'
+pageRef = '/Smish-page'
+weight = 30
+[[menus.main]]
+name = 'spear'
+pageRef = '/Spear-page'
+weight = 40
+[[menus.main]]
+name = 'vishing'
+pageRef = '/Vishing-page'
+weight = 50
+[[menus.main]]
+name = 'scam report'
+pageRef = '/Scam Report-page'
+weight = 60
+[[menus.main]]
+name = 'hotsheet of scams'
+pageRef = '/Hotsheet of scams-page'
+weight = 70 
+tag = "tags"
+author = "authors"
+category = "categories" 
 
 
 [menu]

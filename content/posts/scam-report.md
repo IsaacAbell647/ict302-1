@@ -5,6 +5,7 @@ draft = false
 description = "Complete guide to reporting scams and helping protect others"
 tags = ["reporting", "scam-prevention", "resources"]
 featured_image = "/images/report.png"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## Why Reporting Matters

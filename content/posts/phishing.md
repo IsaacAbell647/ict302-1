@@ -5,6 +5,7 @@ draft = false
 description = "Learn how to identify and avoid phishing scams"
 tags = ["phishing", "email-security", "scams"]
 featured_image = "/images/phishing.jpg"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## What is Phishing?

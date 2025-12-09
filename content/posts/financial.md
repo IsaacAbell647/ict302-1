@@ -5,6 +5,7 @@ draft = false
 description = "Essential tips for protecting your financial information and accounts online"
 tags = ["financial-safety", "banking", "fraud-prevention"]
 featured_image = "images/financial.png"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## Why Financial Safety Matters

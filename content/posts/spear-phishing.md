@@ -5,6 +5,7 @@ draft = false
 description = "Understanding highly targeted phishing attacks that use personal information against you"
 tags = ["spear-phishing", "targeted-attacks", "social-engineering"]
 featured_image = "images/spearing.png"
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 
 ## What is Spear Phishing?
