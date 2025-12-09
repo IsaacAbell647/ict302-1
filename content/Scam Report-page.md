@@ -1,8 +1,9 @@
 +++
 date = '2025-10-23T11:42:26-04:00'
 title = 'Scam Report'
+category = [ScamReport]
 tags = ["information","scam","report"]
-authors = ["Isaac"]
+authors = ["Isaac","Connor","Josh","Ben"]
 +++
 For different tpyes of scams there are different places to report them.
 ## Where to Report
