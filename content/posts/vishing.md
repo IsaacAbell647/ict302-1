@@ -4,17 +4,18 @@ date = "2025-12-08"
 draft = false
 description = "Learn how to identify and protect yourself from phone-based phishing attacks"
 tags = ["vishing", "phone-scams", "voice-phishing"]
+featured_image = "/images/vishing.jpg"
 +++
 
 ## What is Vishing?
 
-Vishing (voice phishing) is a type of scam where criminals use phone calls to trick you into revealing personal information, sending money, or granting access to your computer or accounts. Unlike email phishing, vishing relies on direct voice communication to create immediate urgency and pressure.
+Vishing (voice phishing) is a scam where criminals use phone calls to trick you into revealing personal information, send money, or granting access to your computer or accounts. Vishing relies on direct voice communication to create immediate urgency and pressure.
 
 ## Why Vishing Works
 
-Scammers use psychological tactics that are especially effective over the phone:
+Scammers use psychological tactics that are designed to be most effective over the phone:
 - **Voice creates trust** - Hearing a human voice makes the scam feel more legitimate
-- **Immediate pressure** - You have to respond in real-time without time to think
+- **Immediate pressure** - You have to respond in real time, without time to think
 - **Caller ID spoofing** - They can make it look like legitimate organizations are calling
 - **Authority intimidation** - They impersonate authoritative entities such as the police, IRS, or tech support
 
@@ -27,7 +28,6 @@ Scammers use psychological tactics that are especially effective over the phone:
 - Threatens arrest, deportation, or license suspension
 - Demands immediate payment via gift cards, wire transfer, or cryptocurrency
 - Asks for credit card or bank account information over the phone
-- Uses aggressive or threatening language
 - Claims lawsuit is imminent
 
 **In Reality:**
@@ -47,8 +47,8 @@ Scammers use psychological tactics that are especially effective over the phone:
 - Pressure to act immediately
 
 **In Reality:**
-- Microsoft/Apple never cold-call customers
-- Your ISP won't call about viruses
+- Microsoft nor Apple will ever cold-call customers
+- Your Internet Service Provider won't call about viruses
 - No one can detect viruses on your computer remotely without access
 
 ### 3. Social Security Administration Scams
@@ -63,8 +63,7 @@ Scammers use psychological tactics that are especially effective over the phone:
 
 **In Reality:**
 - Social Security numbers cannot be "suspended"
-- SSA rarely calls, and never threatens
-- They never ask you to pay to reactivate your number
+- They will never ask you to pay to reactivate your number
 
 ### 4. Bank/Credit Card Fraud Alerts
 **The Scam:** Caller claims to be from your bank warning about fraudulent activity.
@@ -96,7 +95,7 @@ Scammers use psychological tactics that are especially effective over the phone:
 - You can't win contests you didn't enter
 - Real lotteries don't call winners
 
-### 7. Utility Company Scams
+### 6. Utility Company Scams
 **The Scam:** Caller threatens to shut off electricity, water, or gas unless you pay immediately.
 
 **Warning Signs:**
@@ -114,7 +113,7 @@ Scammers use psychological tactics that are especially effective over the phone:
 ## Advanced Vishing Tactics You Might Encounter
 
 ### Caller ID Spoofing
-Scammers can make any number appear on your caller ID. Just because it shows "IRS" or your bank's name doesn't mean it's legitimate.
+Scammers can make any number appear on your caller ID. Just because it shows a company you may know, are apart of, or your bank's name doesn't mean it's legitimate.
 
 **What to do:**
 - Never trust caller ID alone
@@ -238,9 +237,6 @@ Scammers call from numbers similar to yours (same area code and first 3-6 digits
 - Report violations: DoNotCall.gov/report
 - Phone: 1-888-382-1222
 
-**Your Phone Carrier**
-- Report spam: Forward to 7726 (SPAM)
-- Ask about call-blocking services
 
 **IRS (for tax scams)**
 - Report: treasury.gov/tigta
@@ -274,8 +270,6 @@ Teach children:
 
 ## Remember
 
-> **"When in doubt, hang up and call back using an official number."**
-
 Legitimate organizations:
 - ✓ Will let you hang up and call back
 - ✓ Won't threaten you
@@ -292,4 +286,4 @@ Legitimate organizations:
 - Refuse to provide information
 - Call back on your own terms
 
-Stay skeptical, trust your instincts, and remember: if it sounds urgent and scary, it's probably a scam!
+Trust your instincts, and remember: if it sounds urgent and scary, it's probably a scam!

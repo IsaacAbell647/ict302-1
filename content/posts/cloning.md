@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Learn about clone phishing attacks that duplicate legitimate emails and social media profiles"
 tags = ["clone-phishing", "impersonation", "social-engineering"]
+featured_image = "/images/cloning.png"
 +++
 
 ## What is Clone Phishing?

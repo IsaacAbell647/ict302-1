@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Learn to identify and avoid SMS phishing attacks sent through text messages"
 tags = ["smishing", "sms-scams", "text-message-phishing"]
+featured_image = "/images/smishing.png"
 +++
 
 ## What is Smishing?

@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Essential tips for protecting your financial information and accounts online"
 tags = ["financial-safety", "banking", "fraud-prevention"]
+featured_image = "images/financial.png"
 +++
 
 ## Why Financial Safety Matters

@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Understanding pharming attacks and how to protect yourself from malicious website redirects"
 tags = ["pharming", "dns-attacks", "cyber-security"]
+featured_image = "/images/pharming.jpg"
 +++
 
 ## What is Pharming?

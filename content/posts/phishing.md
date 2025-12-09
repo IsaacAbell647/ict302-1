@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Learn how to identify and avoid phishing scams"
 tags = ["phishing", "email-security", "scams"]
+featured_image = "/images/phishing.jpg"
 +++
 
 ## What is Phishing?
@@ -52,7 +53,7 @@ Before clicking any link:
 - ❌ Urgent or threatening language
 - ❌ Requests for passwords or financial information
 - ❌ Attachments you weren't expecting
-- ❌ Too-good-to-be-true offers
+- ❌ Too Good To Be True Offers
 - ❌ Poor spelling and grammar
 - ❌ Mismatched or fake logos
 

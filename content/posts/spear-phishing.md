@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Understanding highly targeted phishing attacks that use personal information against you"
 tags = ["spear-phishing", "targeted-attacks", "social-engineering"]
+featured_image = "images/spearing.png"
 +++
 
 ## What is Spear Phishing?

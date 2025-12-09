@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Complete guide to reporting scams and helping protect others"
 tags = ["reporting", "scam-prevention", "resources"]
+featured_image = "/images/report.png"
 +++
 
 ## Why Reporting Matters

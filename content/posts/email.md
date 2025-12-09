@@ -4,6 +4,7 @@ date = "2025-12-08"
 draft = false
 description = "Comprehensive guide to identifying and avoiding email phishing attacks"
 tags = ["email-phishing", "phishing", "email-security"]
+featured_image = "images/email.png"
 +++
 
 ## What is Email Phishing?
